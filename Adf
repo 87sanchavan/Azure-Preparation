@@ -1,0 +1,1 @@
+Linked Services are connection to data sources and destinations. Data Source or destination may be on Azure (such as Azure Blob Storage, Azure SQL Database) or on premises (such as on-premises SQL Server, or on-premises Oracle)
